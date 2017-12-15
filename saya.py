@@ -31,3 +31,4 @@ while (pilihan <3):
 	
 	
 	# bush
+	# nambah data
